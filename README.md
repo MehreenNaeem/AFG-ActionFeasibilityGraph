@@ -1,0 +1,1 @@
+Take a set of action definitions (in PDDL format) and, given the current state of the environment, filter out only those actions whose preconditions are satisfied. From this reduced, executable action set, an action search graph is constructed that can be used for planning or agent decision-making.
